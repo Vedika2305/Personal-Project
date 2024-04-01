@@ -17,7 +17,7 @@ body {
     color: #3500D3;
 }
 
-.button {
+button {
         align-items: center;
         background-color: #fff;
         border-radius: 12px;
